@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WordSpell/static/css/main.c9275f18.chunk.css",
+    "main.js": "/WordSpell/static/js/main.fc6b31a7.chunk.js",
+    "main.js.map": "/WordSpell/static/js/main.fc6b31a7.chunk.js.map",
+    "runtime-main.js": "/WordSpell/static/js/runtime-main.cdce8589.js",
+    "runtime-main.js.map": "/WordSpell/static/js/runtime-main.cdce8589.js.map",
+    "static/js/2.cdd7237e.chunk.js": "/WordSpell/static/js/2.cdd7237e.chunk.js",
+    "static/js/2.cdd7237e.chunk.js.map": "/WordSpell/static/js/2.cdd7237e.chunk.js.map",
+    "index.html": "/WordSpell/index.html",
+    "static/css/main.c9275f18.chunk.css.map": "/WordSpell/static/css/main.c9275f18.chunk.css.map",
+    "static/js/2.cdd7237e.chunk.js.LICENSE.txt": "/WordSpell/static/js/2.cdd7237e.chunk.js.LICENSE.txt",
+    "static/media/wordspell-dark.b1fae1f6.png": "/WordSpell/static/media/wordspell-dark.b1fae1f6.png",
+    "static/media/wordspell.ba6684bd.png": "/WordSpell/static/media/wordspell.ba6684bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdce8589.js",
+    "static/js/2.cdd7237e.chunk.js",
+    "static/css/main.c9275f18.chunk.css",
+    "static/js/main.fc6b31a7.chunk.js"
+  ]
+}
